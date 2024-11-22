@@ -25,8 +25,8 @@ This project enables users to virtually try on sunglasses using a webcam. It com
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/Istiak-A-Tashrif/virtual-sunglasses-try-on.git
+   cd virtual-sunglasses-try-on
    npm install -f
    npm run dev
 
@@ -34,6 +34,7 @@ This project enables users to virtually try on sunglasses using a webcam. It com
 
 ## File Structure
 
+```
 .
 ├── public/
 │ └── images
@@ -43,6 +44,7 @@ This project enables users to virtually try on sunglasses using a webcam. It com
 ├── README.md # Project documentation
 ├── package.json # Node.js project configuration
 └── next.config.js # Next.js configuration
+```
 
 ## Troubleshooting
 
